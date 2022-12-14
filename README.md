@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rakhmiddin93
+- 👋 Hi, I’m Rakhmiddin
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on AI company in Korea
