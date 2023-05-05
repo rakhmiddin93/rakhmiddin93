@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rakhmiddin
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Computer Vision
-- 💞️ I’m looking to collaborate on AI company in Korea
+- 🌱 I have learn a lot in this field
+- 💞️ I’m looking to collaborate on AI company in Korea or my country
 - 📫 How to reach me rakhmiddin1993@gachon.ac.kr
 
 <!---
